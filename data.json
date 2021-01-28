@@ -76,8 +76,7 @@
     }
     ]
 
-  "Friday"
-    :[
+  "Friday":[
       {   "id": 1,
         "timeStart": "08.00",
         "timeStop":"09.25",
